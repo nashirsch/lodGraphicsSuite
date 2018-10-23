@@ -1,0 +1,8 @@
+For Project 6 we will start by finishing all the features mentioned
+in Project 5 and fixing up any remaining bugs. In terms of embellishments
+we are going to try to add rain, vegetation, and a fancier skybox. We'd
+also like to explore an "On-The-Ground" mode which would place the camera
+close to the terrain, and any movements would translate the camera position
+"along" the terrain, as if a user was walking along the ground. 
+If time permits we would also add mouse controls to govern the
+camera's direction vector.  
